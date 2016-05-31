@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "raluce-cloud",
+  "private_key_id": "cfeb44d034db072827cd048abadc95ee76b23f7b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCYdOl+AN+v7Ewg\n5co7clw+kutXn4ir644o0jHOreTzMMl20Ym4YGVSmyIVuUyWjhoa1j34DC71L+78\nuwZsjuWsBzd7+mhVaMhb2o7iZxhDqLyYHfTpzU++I02fBDdLd+UCmBYQYKwn/Dhf\nsHrN/UuSO36c1uB5z8WSyk08obcF7ha8+4ouMYmWpGazncuhUKNrJKdCEUpjCIN7\nDRrMgihI6LjlItPeWG095xkLgV/LzlmN2brnLKEMnZZvlyed/2W+M8jPholZA4j7\nuITI9FPlB35GSvwKA+/2UCk89HoPRpSXhSYP34281KE8O1DyvGD1uNyeLHPyC885\nEW/ryH39AgMBAAECggEAbGGAtEDuxGPZ4vE5CXXNOfa8M7iIMp/smfyDyAg7YN9n\n+X4Qx/BPV6BNZOAsIEO5LybrOvF+WHPRE/3pHTeg8uDWgt6LWVx6Q0JmnXDpAQBt\nwj5Zo/R/Ig562fbnUFFVjriLxuzStkJJ2UzeoJ3XIYgGBH2Fa1NXg3kp21ajhCSU\ntHRzGpRHMB5dh3rEWlc5MZBpdFP9JD63JO0PQ0l77AtwCEQwldiSOwPdcwxB0rSj\nO+ClpixVgFSub9bt2WiqsUOVElIi0PSOGvV9n09W7BpWLNOn1/NLU3ytzUPRv0zA\nWnH8yLn/Gz/qjQ/f7zT+SwBtSckqPHUopavOG0n7SQKBgQD1JbwXyUSge3zqrsDw\n+rSCMRCXUYBrian7uljmsnkpIEZiaDo1TrNH4snlcUwttIfDvW/tgQVQdOnoXVuZ\nQ7IxjzIPg7lMRRHutlyGWGieejwLetSp4twi2gfqddntBl5C4gZ7jesd1EQnvS8c\nwQjDGBQQ90f4wRP9HdSLnhZH6wKBgQCfNLW1BI/iyPHCQO36BQt6UHSC6FlMstzm\n1fIKUVoi68zEj2nqvXFikdG2VtgIdRzFQ4z+RpeE67zJOS7PWope6T51+Z2gOuIJ\nIrCTpoKCWiOEQCvirYSDMOBgZRcxjVxp+mhwRTvQk3pop683ZapxdRMpSsmDTbhI\n0jt0Eqj/twKBgCmqnzyfveVU99dfmnWa9wFF258MgDpG7LhXZPLZFNTTooLpWjNj\nS/+E4XH4/syp6YVwdky06DVTmcofzAjRw8C+qPCQH/eBqdmb7z/6WNXOytPcrbau\nU2ItErlcDI1Hzs+pYRaw+WxZfrgOZKqLeLTIK+jyTq5OCtqzrkOIvBq/AoGAaQp1\n+QERjifWmrwMR7GcaQ88UELM6HX6mbL/Bx+1wOSjLe0RjPeBH+/l1dBmqO3cFasE\nE6Cvx9thq8I2yEiMkyKBO4V+IoG3MR/aMRDjeu3OESvlyKGDlKti3zbTnrYOCz5U\nOf70ACHN2c8JJBvH4SPFiLD3U9KrjCBpaaQGLPECgYEArKF70jiKS4f6yWaYR5ZJ\nGKsRUuFrXLwtipLVDuiCDYsZUuwFGYKH+8aXqMiDWQpBtKRDwML5++D9XgkcSnXS\no1uFDIt6ykJqAn1nQEfcVoahFeRZaK3bFE4YABPuOfeLcoNlpH2wzFUO6w7TQWgK\napuI3kwVnuErV3Wp1WxLbrk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "raluce@raluce-cloud.iam.gserviceaccount.com",
+  "client_id": "115396512710360461490",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/raluce%40raluce-cloud.iam.gserviceaccount.com"
+}

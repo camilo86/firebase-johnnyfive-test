@@ -1,0 +1,23 @@
+{
+  "name": "firebase-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camilo86/firebase-johnnyfive-test.git"
+  },
+  "author": "Camilo Gonzalez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camilo86/firebase-johnnyfive-test/issues"
+  },
+  "homepage": "https://github.com/camilo86/firebase-johnnyfive-test#readme",
+  "dependencies": {
+    "firebase": "^3.0.3",
+    "johnny-five": "^0.9.51"
+  }
+}
